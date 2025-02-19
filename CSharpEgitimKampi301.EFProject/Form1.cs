@@ -12,6 +12,7 @@ namespace CSharpEgitimKampi301.EFProject
 {
     public partial class Form1 : Form
     {
+        //Yaman
         public Form1()
         {
             InitializeComponent();
